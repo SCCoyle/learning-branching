@@ -1,1 +1,2 @@
 text initial
+text added during the branch
